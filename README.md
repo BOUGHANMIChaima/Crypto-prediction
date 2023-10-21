@@ -7,7 +7,7 @@ En utilisant le repisotory https://github.com/manthanthakker/BitcoinPrediction p
 Après avoir importer les données obtenues à partir de Kaggle de notre base de données qui contient des informations historiques de plusieurs cryptomonnaies comme Bitcoin et Ethereum, je suis passée à l’étape de préparation et nettoyage des données.
 
 L'étape suivante c'est  traiter les valeurs manquantes, c'est plutôt dans la différence d'intervalle des timestamps . 
-J'ai commencé par extraire chaque crytomonnaie avec les timestamps correspondants, les visualiser pour mieux détecter les différences et puis imputer chaque valeurs manquantes par la moyenne de la valeur d'avant et la valeur d'après.
+J'ai commencé par extraire chaque cryptomonnaie avec les timestamps correspondants, les visualiser pour mieux détecter les différences et puis imputer chaque valeurs manquantes par la moyenne de la valeur d'avant et la valeur d'après.
 
 ## Description des données
 
